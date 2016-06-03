@@ -1,0 +1,10 @@
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Release\Countdown.exe.config
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Release\Countdown.exe
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Release\Countdown.pdb
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Release\Countdown.xml
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Release\Countdown.Form1.resources
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Release\Countdown.Resources.resources
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Release\Countdown.vbproj.GenerateResource.Cache
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Release\Countdown.exe
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Release\Countdown.xml
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Release\Countdown.pdb

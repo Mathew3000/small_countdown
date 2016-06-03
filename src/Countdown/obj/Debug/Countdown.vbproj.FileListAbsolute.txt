@@ -1,0 +1,11 @@
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Debug\Countdown.exe.config
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Debug\Countdown.vbprojResolveAssemblyReference.cache
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Debug\Countdown.Form1.resources
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Debug\Countdown.Resources.resources
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Debug\Countdown.vbproj.GenerateResource.Cache
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Debug\Countdown.exe
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Debug\Countdown.pdb
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\bin\Debug\Countdown.xml
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Debug\Countdown.exe
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Debug\Countdown.xml
+c:\users\matthias\documents\Stratos\Countdown\Countdown\Countdown\obj\Debug\Countdown.pdb
